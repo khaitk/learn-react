@@ -1,0 +1,12 @@
+{
+  "users": [
+    {
+      "name": "Nguyễn Thị Hạ My",
+      "phone": "0347184502",
+      "email": "hamy@gmail.com",
+      "address": "Hải Lăng - Quảng Trị",
+      "job": "Laravel",
+      "id": 1
+    }
+  ]
+}
