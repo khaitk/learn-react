@@ -5,6 +5,7 @@ import Navbar from "./component/Navbar";
 import CreateUser from './component/CreateUser'
 import {BrowserRouter as Router, Route, Routes} from "react-router-dom";
 import UsersDetails from "./component/UsersDetails";
+import NotFound from "./component/NotFound"
 
 function App() {
     return (
@@ -16,6 +17,7 @@ function App() {
                         <Route path="/" element={<Users/>}/>
                         <Route path="/create" element={<CreateUser/>}/>
                         <Route path="/users/:id" element={<UsersDetails/>} />
+                        <Route path="*" element={<NotFound/>}/>
                     </Routes>
                 </div>
             </div>

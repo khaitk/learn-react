@@ -1,12 +1,20 @@
 {
   "users": [
     {
-      "name": "Nguyễn Thị Hạ My",
-      "phone": "983742482423",
-      "email": "hamy@gmail.com",
+      "name": "Mai Khải",
+      "phone": "0123445678",
+      "email": "maikhai@gmail.com",
       "address": "Hải Lăng - Quảng Trị",
       "job": "Laravel",
       "id": 1
+    },
+    {
+      "name": "Nguyễn Thị Trà My",
+      "phone": "0123445678",
+      "email": "tramy@gmail.com",
+      "address": "Hải Lăng - Quảng Trị",
+      "job": "Laravel",
+      "id": 2
     }
   ]
 }
