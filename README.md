@@ -1,3 +1,6 @@
+# Cài đặt 
+### `npm install`
+
 # Chức năng thêm và hiển thị react js và json-server:
 
 # Để thực thi :
