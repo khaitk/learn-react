@@ -23,7 +23,6 @@ const UsersDetails = () => {
         })
     }
 
-
     return (
         <>
             {isPending && <div>Loading...</div>}
@@ -33,7 +32,6 @@ const UsersDetails = () => {
                         <div className="col-sm-6">
                             <h2>Thông tin cá nhân</h2>
                             <br/>
-
                             < b className="text-primary">{users.name}</b>
                             <h5>{users.phone}</h5>
                             <h5>{users.email}</h5>

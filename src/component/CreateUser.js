@@ -57,7 +57,7 @@ const CreateUser=() => {
                                 <input type="text"  className="form-control" onChange={(e) => setJob(e.target.value)} />
                             </div>
                         </div>
-                        <button className="btn btn-success">Thêm</button>
+                        <button className="btn btn-success" >Thêm</button>
                     </form>
                 </div>
             </div>
